@@ -10,8 +10,10 @@ $ git checkout gh-pages
 If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
 
 ### Side Projects
+
 #### SkeletonWebProject
 - Lorem ipsum
+
 #### mac-dev-setup
 - dot-files
 
