@@ -1,4 +1,4 @@
-hannic-hannic.github.io
+hannic.github.io
 =======================
 
 personal website
